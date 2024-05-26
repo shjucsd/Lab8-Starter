@@ -1,9 +1,9 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Lab8-Starter",
+    "short_name": "Shravi",
     "description": "",
-    "start_url": "",
-    "display": "",
+    "start_url": "http://127.0.0.1:5500/",
+    "display": "fullscreen",
     "background_color": "",
     "theme_color": "",
     "icons": [
